@@ -1,5 +1,4 @@
 # 📊 Calculadora de IMC
-
 Este projeto é uma aplicação simples e interativa desenvolvida em **React** para calcular o **Índice de Massa Corporal (IMC)**.
 
 ## 📖 Sobre o Projeto
@@ -20,18 +19,17 @@ Esta aplicação permite que você insira seu peso (em kg) e sua altura (em metr
 - ⚛ **React** – Framework JavaScript para construção de interfaces de usuário.  
 - 🌐 **HTML5** – Estrutura do projeto.  
 - 🎨 **CSS3** – Estilização e design responsivo.  
-- 🚀 **JavaScript (ES6)** – Lógica de cálculo e interatividade.  
 
 ## 📦 Como Executar o Projeto
 
 1. Clone o repositório:  
   ```sh
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   git clone https://github.com/seu-usuario/calculadora_imc.git
   ```
 
 2. Acesse a pasta do projeto:
   ```sh
-  cd calculadora-imc
+  cd calculadora_imc
   ```
 
 3. Instale as dependências:
